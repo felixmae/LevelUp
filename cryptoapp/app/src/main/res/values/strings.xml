@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CryptoApp</string>
+    <string name="login_button">Login</string>
+    <string name="password_label">Password</string>
+    <string name="user_label">User</string>
+    <string name="login_label">Login</string>
+</resources>
